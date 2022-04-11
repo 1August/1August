@@ -1,11 +1,23 @@
 - 👋 Hi, I’m Maksat.
-- 👀 I’m interested in web development, actually front-end. maybe full-stack then.
-- 🌱 I’m currently learning technology like React, Spring boot, PostgreSQL deeper, Design patterns on Java. In this moment know HTML, CSS, SCSS, JS, PostgreSQL(base), Java(OOP, Algorithms and Data Structures).
-- 💞️ I’m looking to collaborate on FAANG or large companies, main thing is good atmosphere!
-- 📫 How to reach me gmail: boktaban@gmail.com
-- Instagram: @00000001m00000001k00000001
+      19 y.o.
+      Student of AstanaIT University
+      
+- 👀 I’m interested in web development, actually front-end. Maybe full-stack then :D
+
+- 🌱 I learned technnologies like:
+        HTML, CSS(SCSS), JS
+        React
+        PostgreSQL, PL/SQL
+        Java(OOP, Algorithms & Data Structures, Spring boot)
+        Design patterns of OOP
+        
+- 💞️ I’m looking for a job on large companies, main thing is good atmosphere!
+
+- How to reach me gmail: boktaban@gmail.com
+- Instagram: @iwa_tenshi
 - Telegram: @Iwa_Tenshi
-- More about me in this repository→
+
+- More about me in this repository -→
 
 <!---
 1August/1August is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
