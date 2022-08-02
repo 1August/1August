@@ -13,7 +13,7 @@
         
 - 💞️ I’m looking for a job on large companies, main thing is good atmosphere!
 
-- How to reach me gmail: boktaban@gmail.com
+- How to reach me gmail: maksat01kuanysh@gmail.com
 - Instagram: @iwa_tenshi
 - Telegram: @Iwa_Tenshi
 
