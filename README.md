@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maksat</h1>
-<h3 align="center">A frontend developer from Astana, Kazakhstan</h3>
+<h3 align="center">Frontend developer from Astana, Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1august&label=Profile%20views&color=0e75b6&style=flat" alt="1august" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1august" alt="1august" /></a> </p>
 
-- 🔭 I’m currently working on **usefull React project boilerplates**
+- 🔭 I’m currently working on **React project boilerplates**
 
 - 🌱 I’m currently learning **advanced React, Next.js, NestJS, Web3 and related technologies**
 
